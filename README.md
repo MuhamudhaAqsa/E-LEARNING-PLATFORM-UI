@@ -1,4 +1,4 @@
-# E-Learning Project
+# E-Learning Platform
 
 ## 📸 Screenshot
 
@@ -6,7 +6,6 @@
 
 ## ✨ Features
 
-- User-friendly interface
+- User-friendly interface with course listing, progress tracking and video embedding
 - Accessible from any device
 - Interactive learning modules
-- Secure login and user tracking
