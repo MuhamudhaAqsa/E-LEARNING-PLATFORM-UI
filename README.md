@@ -13,7 +13,7 @@ DURATION: 6 WEEKS
 MENTOR: NEELA SANTOSH
 
 
-## FEATURES
+## DESCRIPTION
 
 1. User-Friendly Interface with Course Listing, Progress Tracking, and Video Embedding
 
