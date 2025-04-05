@@ -17,6 +17,7 @@ Visual indicators such as checkmarks, progress bars, or completion percentages p
 The interface also supports video embedding, allowing course creators to incorporate high-quality educational videos directly into lesson pages.
 These embedded videos load efficiently and play smoothly, enhancing the learning experience with multimedia content.
 The combination of ease of navigation, visibility of progress, and multimedia integration creates an environment that supports focus, consistency, and effective learning.
+
 2. Accessible from Any Device
 
 The platform follows responsive design principles, ensuring that the learning experience remains consistent and fully functional across all device types — including desktops, laptops, tablets, and smartphones.
@@ -25,6 +26,7 @@ The interface and content layout automatically adapt to different screen sizes, 
 Touch-friendly navigation and clickable areas ensure that mobile users enjoy a smooth and intuitive interaction with the platform.
 The platform’s cross-device accessibility also ensures greater inclusivity, enabling users with limited access to certain technologies to still fully participate.
 With no need for external software installations, the platform can be accessed directly through standard web browsers, adding to its convenience and reliability.
+
 3. Interactive Learning Modules
 
 To enhance engagement and reinforce understanding, the platform includes interactive learning modules as a core feature.
