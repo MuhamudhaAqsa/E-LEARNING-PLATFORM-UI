@@ -1,10 +1,10 @@
 # E-LEARNING PLATFORM UI
 
-## 📸 Screenshot
+## OUTPUT
 
 ![E-Learning Screenshot](e-learning.png)
 
-## ✨ Features
+## Features
 
 Features
 1. User-Friendly Interface with Course Listing, Progress Tracking, and Video Embedding
