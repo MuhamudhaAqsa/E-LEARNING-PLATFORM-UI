@@ -4,7 +4,7 @@
 
 ![E-Learning Screenshot](e-learning.png)
 
-## Features
+## FEATURES
 
 Features
 1. User-Friendly Interface with Course Listing, Progress Tracking, and Video Embedding
