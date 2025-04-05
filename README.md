@@ -3,7 +3,6 @@
 
 ## FEATURES
 
-Features
 1. User-Friendly Interface with Course Listing, Progress Tracking, and Video Embedding
 
 The platform is designed with a clean and intuitive user interface that allows learners to navigate content easily and efficiently.
