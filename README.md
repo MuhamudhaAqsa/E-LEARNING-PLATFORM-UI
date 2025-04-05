@@ -1,8 +1,5 @@
 # E-LEARNING PLATFORM UI
 
-## OUTPUT
-
-![E-Learning Screenshot](e-learning.png)
 
 ## FEATURES
 
@@ -36,3 +33,9 @@ Learners can receive instant feedback on their responses, which helps reinforce 
 These modules are designed to cater to various learning styles, allowing users to engage with content visually, kinesthetically, and cognitively.
 Interactive features also help break up long content, making it easier to digest and retain key information.
 Overall, these modules increase motivation and comprehension by turning theoretical knowledge into engaging, practical application.
+
+
+## OUTPUT
+
+![E-Learning Screenshot](e-learning.png)
+
