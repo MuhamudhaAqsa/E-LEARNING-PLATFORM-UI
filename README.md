@@ -1,4 +1,4 @@
-# E-Learning Platform
+# E-LEARNING PLATFORM UI
 
 ## 📸 Screenshot
 
