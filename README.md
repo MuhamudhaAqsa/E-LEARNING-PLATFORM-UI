@@ -41,7 +41,7 @@ A modern, responsive, and interactive web platform for online education — feat
 ## 👩‍💻 Author
 
 **Muhamudha Aqsa M A**  
-Aspiring Technical Writer
+Aspiring Technical Writer skilled in explaining technical concepts clearly
 
 🔗 [LinkedIn](https://linkedin.com/in/muhamudhaaqsa)  
 ✉️ muhamudhaaqsa@gmail.com
