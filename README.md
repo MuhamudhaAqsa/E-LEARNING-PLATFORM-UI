@@ -41,9 +41,8 @@ A modern, responsive, and interactive web platform for online education — feat
 ## 👩‍💻 Author
 
 **Muhamudha Aqsa M A**  
-Wipro Certified Java Full Stack Developer  
+Aspiring Technical Writer
 🔗 [LinkedIn](https://linkedin.com/in/muhamudhaaqsa)  
-🌐 [Live Site or Portfolio](https://muhamudhaaqsa.me)  
 ✉️ muhamudhaaqsa@gmail.com
 
 ---
