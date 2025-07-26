@@ -42,6 +42,7 @@ A modern, responsive, and interactive web platform for online education — feat
 
 **Muhamudha Aqsa M A**  
 Aspiring Technical Writer
+
 🔗 [LinkedIn](https://linkedin.com/in/muhamudhaaqsa)  
 ✉️ muhamudhaaqsa@gmail.com
 
